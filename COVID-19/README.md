@@ -1,6 +1,6 @@
 # COVID19 Forecasting
 
-![Alt text](relative/path/to/img.jpg?raw=true "Confirmed Cases Worldwide")
+![Confirmed Cases](https://user-images.githubusercontent.com/63497499/84279778-123fe000-ab54-11ea-819f-4547d92b07cc.png)
 
 Forecasting confirmed cases and fatalities between March 25 and April 22 by region, the primary goal isn't to produce accurate forecasts. It’s to identify factors that appear to impact the transmission rate of COVID-19.
 
