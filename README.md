@@ -1,2 +1,2 @@
 # Data-Scienece-Repo
-"Study hard what ever interests you the most
+Repository containing data science projects that transformed me in my career.
